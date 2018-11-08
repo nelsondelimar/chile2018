@@ -1,4 +1,4 @@
-# Chile 2018
+# Chile 2018 - Presentation
 
 
 **This repository was created with the intention of keeping codes, results and other necessary information regarding our work that will be sent to the [Chilean Geological Congress](http://congresogeologicochileno.cl/en/home/).**
